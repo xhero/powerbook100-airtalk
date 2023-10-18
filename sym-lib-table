@@ -4,4 +4,8 @@
   (lib (name "TashTalk1.0")(type "KiCad")(uri "${KIPRJMOD}/TashTalk1.0.kicad_sym")(options "")(descr ""))
   (lib (name "2023-07-31_10-22-16")(type "KiCad")(uri "/Users/xhero/Downloads/ul_TXB0104PWR/KiCADv6/2023-07-31_10-22-16.kicad_sym")(options "")(descr ""))
   (lib (name "2023-08-04_08-01-15")(type "KiCad")(uri "/Users/xhero/Downloads/ul_ESP32-WROOM-32D-M113DH6400PH3Q0-/KiCADv6/2023-08-04_08-01-15.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-14_07-33-24")(type "KiCad")(uri "/Users/xhero/Desktop/ul_TS-1187A-B-A-B/KiCADv6/2023-10-14_07-33-24.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-16_06-40-01")(type "KiCad")(uri "/Users/xhero/Desktop/ul_SN74LXC2T45DCUR/KiCADv6/2023-10-16_06-40-01.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-16_07-20-41")(type "KiCad")(uri "/Users/xhero/Desktop/ul_TXU0304RUTR/KiCADv6/2023-10-16_07-20-41.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-16_16-52-45")(type "KiCad")(uri "/Users/xhero/devel/Kicad_Symbols/TXU0304PWR/2023-10-16_16-52-45.kicad_sym")(options "")(descr ""))
 )
